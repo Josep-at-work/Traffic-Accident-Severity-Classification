@@ -1,7 +1,7 @@
 # Coursera_Capstone
 This project will be mainly used for the Applied Data Science Capstone, which is the icing on the cake of the DataSc Professional certificate by IBM.
 
-# Introduction
+## Introduction
 
 Road traffic injuries are currently estimated to be the eighth leading cause of death across all age groups globally, and are predicted to become the seventh leading cause of death by 2030.
     
@@ -13,11 +13,11 @@ Governments should be highly interested in accurate predictions of the severity 
 
 This project consist of several parts divided in two different notebooks.
 
-# Feature Selection
+## Feature Selection
 
 This first notebook contains all the steps and transformations I performed for the feature selection. You can find the information on the raw data in the following [kaggle page](https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016). The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.
 
-# Predicting Traffic Accident Severity
+## Predicting Traffic Accident Severity
 
 + Data Description
 + Data Cleaning
