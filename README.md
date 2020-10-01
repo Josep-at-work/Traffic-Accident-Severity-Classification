@@ -1,4 +1,7 @@
-# Coursera_Capstone
+# Traffic Accident Severity Classification 
+
+Data Science Professional Certificatoin form IBM - Capstone Project
+---
 This project will be mainly used for the Applied Data Science Capstone, which is the icing on the cake of the DataSc Professional certificate by IBM.
 
 ## Introduction
@@ -17,7 +20,7 @@ This project consist of several parts divided in two different notebooks.
 
 This first notebook contains all the steps and transformations I performed for the feature selection. You can find the information on the raw data in the following [kaggle page](https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016). The kaggle datasets contain an extended descriptions of different aspect of the accidents, thus I've selected the most relevant and useful data for my analysis.
 
-## Predicting Traffic Accident Severity
+## Predicting Traffic Accident Severity - Technical Overview
 
 + Data Description
 + Data Cleaning
@@ -27,7 +30,8 @@ This first notebook contains all the steps and transformations I performed for t
   + Logistic Regression
   + KNN
   + SVM
-+ Results:
+  
+## Results:
     
 |**Algorithm**|**Jaccard**|**f1-score**|**Precision**|**Recall**|**Time(s)**|
 |---------|-------|----|-------------|------|-------|
